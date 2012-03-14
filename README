@@ -1,0 +1,14 @@
+
+'forever' blinker circuit - based on vk2zay's video [1]
+
+most of the parts are 0805, including the led. power can come either from a 12mm coin cell Li (CR1220, CR1225) or a 1.5 battery.
+in case the Li battery is used you should break the traces that go to the 2 pin external connector and use the now unconnected 2 holes to fasten the circuit to anything you want.
+
+
+
+digikey part numbers:
+    12mm battery holder:  3000KCT-ND
+    BC847BPN:             568-1634-1-ND
+
+[1]  http://www.youtube.com/watch?v=JenPZMHREfg
+
